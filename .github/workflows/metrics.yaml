@@ -19,9 +19,10 @@ jobs:
           # Options
           user: merca
           template: classic
-          base: header, activity, community, repositories, metadata
-          base_skip: yes
+          base: header, activity, repositories, metadata
           config_timezone: Europe/Oslo
+          config_padding: 0, 10 + 8%
+          repositories_skipped: merca/merca
 
           plugin_introduction: yes
           plugin_introduction_title: yes
@@ -90,5 +91,4 @@ jobs:
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: merca
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
