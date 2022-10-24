@@ -19,3 +19,4 @@ jobs:
           SHOW_PROJECTS: false
           SHOW_EDITORS: false
           SHOW_SHORT_INFO: false
+          COMMIT_BY_ME: true
