@@ -24,7 +24,7 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">deepsource-fix-6eac4dfe</span>
+                                        <span class="code">deepsource-fix-b218957b</span>
                                         in
                                         <span class="repo">merca/pyaduro</span>
                                     </div>
@@ -45,8 +45,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">next</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6150be6</div>
-                                        <div class="message">Move dictionary inserts to its definition (#20)
+                                        <div class="sha">#60e3ad5</div>
+                                        <div class="message">Merge collapsible `with` statements (#21)
 
 Co-authored-by: deepsource-autofix[bot] &lt;62050782+deepsource-autofix[bot]@users.noreply.github.com&gt;</div>
                                     </div>
@@ -61,12 +61,12 @@ Co-authored-by: deepsource-autofix[bot] &lt;62050782+deepsource-autofix[bot]@use
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#20 Move dictionary inserts to its definition</span>
+                                        <span class="issue">#21 Merge collapsible `with` statements</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by deepsource-autofix[bot] in <span class="repo">merca/pyaduro</span></div>
-                                    <div>1 file changed <span class="code">++1 --2</span></div>
+                                    <div>1 file changed <span class="code">++8 --10</span></div>
                                 </div>
                             </section>
                         </div>
@@ -78,7 +78,7 @@ Co-authored-by: deepsource-autofix[bot] &lt;62050782+deepsource-autofix[bot]@use
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#20 Move dictionary inserts to its definition</span>
+                                        <span class="issue">#21 Merge collapsible `with` statements</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -95,9 +95,9 @@ Co-authored-by: deepsource-autofix[bot] &lt;62050782+deepsource-autofix[bot]@use
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">lecture1/answer</span>
+                                        <span class="code">deepsource-config-ced902bf</span>
                                         in
-                                        <span class="repo">merca/python_basics_via_tdd</span>
+                                        <span class="repo">merca/pyaduro</span>
                                     </div>
                                 </div>
                             </section>
