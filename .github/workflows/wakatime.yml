@@ -14,9 +14,16 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
-          PUSH_BRANCH_NAME: "current"
           SHOW_LINES_OF_CODE: true
+          SHOW_UPDATED_DATE: true
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_PROFILE_VIEWS: true
+          SHOW_COMMIT: true
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_LANGUAGE: true
+          SHOW_OS: true
+          SHOW_LANGUAGE_PER_REPO: true
+          SHOW_SHORT_INFO: true
+          SHOW_LOC_CHART: true
           SHOW_PROJECTS: false
           SHOW_EDITORS: false
-          SHOW_SHORT_INFO: false
-          COMMIT_BY_ME: true
