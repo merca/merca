@@ -10,13 +10,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-270.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-150.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 32.5 kB Used in GitHub's Storage 
+> 📦 29.4 kB Used in GitHub's Storage 
  > 
-> 🏆 364 Contributions in the Year 2023
+> 🏆 368 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,16 +24,16 @@
  > 
 > 🔑 19 Private Repositories 
  > 
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Tuesday                  104 commits         █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Wednesday                118 commits         ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-Thursday                 48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Friday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Saturday                 48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Sunday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Monday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Tuesday                  99 commits          █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Wednesday                91 commits          █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+Thursday                 48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Friday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Saturday                 48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Sunday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
 ```
 
 
@@ -69,5 +69,5 @@ JavaScript               1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/merca/merca/current/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2023 18:33:25 UTC
+ Last Updated on 23/05/2023 18:33:31 UTC
 <!--END_SECTION:waka-->
