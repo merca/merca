@@ -11,4 +11,9 @@
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Mercas's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Merca&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
    <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#17](https://github.com/merca/data-and-stuff/pull/17) in [merca/data-and-stuff](https://github.com/merca/data-and-stuff)
+2. 💪 Opened PR [#17](https://github.com/merca/data-and-stuff/pull/17) in [merca/data-and-stuff](https://github.com/merca/data-and-stuff)
+3. 💪 Opened PR [#16](https://github.com/merca/data-and-stuff/pull/16) in [merca/data-and-stuff](https://github.com/merca/data-and-stuff)
+4. ❗️ Opened issue [#15](https://github.com/merca/data-and-stuff/issues/15) in [merca/data-and-stuff](https://github.com/merca/data-and-stuff)
+5. ❌ Closed PR [#43](https://github.com/merca/docusaurus/pull/43) in [merca/docusaurus](https://github.com/merca/docusaurus)
    <!--END_SECTION:activity-->
