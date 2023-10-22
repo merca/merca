@@ -71,3 +71,5 @@ HCL                      1 repo              █████░░░░░░�
 
  Last Updated on 21/10/2023 18:33:23 UTC
 <!--END_SECTION:waka-->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
