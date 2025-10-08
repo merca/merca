@@ -11,9 +11,9 @@
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Mercas's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Merca&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
    <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1065](https://github.com/apache/sedona/issues/1065) in [apache/sedona](https://github.com/apache/sedona)
-2. 🎉 Merged PR [#17](https://github.com/merca/data-and-stuff/pull/17) in [merca/data-and-stuff](https://github.com/merca/data-and-stuff)
-3. 💪 Opened PR [#17](https://github.com/merca/data-and-stuff/pull/17) in [merca/data-and-stuff](https://github.com/merca/data-and-stuff)
-4. 💪 Opened PR [#16](https://github.com/merca/data-and-stuff/pull/16) in [merca/data-and-stuff](https://github.com/merca/data-and-stuff)
-5. ❗️ Opened issue [#15](https://github.com/merca/data-and-stuff/issues/15) in [merca/data-and-stuff](https://github.com/merca/data-and-stuff)
+1. ❗️ Opened issue [#35](https://github.com/merca/pyaduro/issues/35) in [merca/pyaduro](https://github.com/merca/pyaduro)
+2. 🎉 Merged PR [#34](https://github.com/merca/pyaduro/pull/34) in [merca/pyaduro](https://github.com/merca/pyaduro)
+3. 💪 Opened PR [#34](https://github.com/merca/pyaduro/pull/34) in [merca/pyaduro](https://github.com/merca/pyaduro)
+4. ❗️ Closed issue [#15](https://github.com/merca/pyaduro/issues/15) in [merca/pyaduro](https://github.com/merca/pyaduro)
+5. 🎉 Merged PR [#33](https://github.com/merca/pyaduro/pull/33) in [merca/pyaduro](https://github.com/merca/pyaduro)
    <!--END_SECTION:activity-->
