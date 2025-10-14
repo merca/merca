@@ -12,8 +12,8 @@
 
    <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#35](https://github.com/merca/pyaduro/issues/35) in [merca/pyaduro](https://github.com/merca/pyaduro)
-2. 🎉 Merged PR [#34](https://github.com/merca/pyaduro/pull/34) in [merca/pyaduro](https://github.com/merca/pyaduro)
-3. 💪 Opened PR [#34](https://github.com/merca/pyaduro/pull/34) in [merca/pyaduro](https://github.com/merca/pyaduro)
-4. ❗️ Closed issue [#15](https://github.com/merca/pyaduro/issues/15) in [merca/pyaduro](https://github.com/merca/pyaduro)
-5. 🎉 Merged PR [#33](https://github.com/merca/pyaduro/pull/33) in [merca/pyaduro](https://github.com/merca/pyaduro)
+2. 💪 Opened PR [#34](https://github.com/merca/pyaduro/pull/34) in [merca/pyaduro](https://github.com/merca/pyaduro)
+3. ❗️ Closed issue [#15](https://github.com/merca/pyaduro/issues/15) in [merca/pyaduro](https://github.com/merca/pyaduro)
+4. ❌ Labeled PR [#33](https://github.com/merca/pyaduro/pull/33) in [merca/pyaduro](https://github.com/merca/pyaduro)
+5. 💪 Opened PR [#33](https://github.com/merca/pyaduro/pull/33) in [merca/pyaduro](https://github.com/merca/pyaduro)
    <!--END_SECTION:activity-->
